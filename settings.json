@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DINGLEBERRYSMP.aternos.me",
-    "port": 21651,
-    "version": "1.21.1"
+    "ip": "PVPTEST-dTv5.aternos.me",
+    "port": 62667,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
