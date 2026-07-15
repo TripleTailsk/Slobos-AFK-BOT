@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PVPTEST-dTv5.aternos.me",
-    "port": 62667,
-    "version": "1.21.11"
+    "ip": "GRADESMP.aternos.me",
+    "port": 31351,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
@@ -45,7 +45,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -68,7 +68,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
